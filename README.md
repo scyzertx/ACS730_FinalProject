@@ -4,9 +4,9 @@ FinalProject: Two-Tier web application automation with Terraform.
 For the implementation of the project implement following steps:
 #####################################################################
 Create 3 buckets  each for staging , dev and prod environment  
-- acs730project-dev
-- acs730project-staging
-- acs730project-prod
+- acs730project-bucket-dev
+- acs730project-bucket-staging
+- acs730project-bucket-prod
 Note: Change in bucket name must be update the bucket name in config.tf file of all environments netwoork. 
 ACS730_FinalProject/environments/<env-name>/network/config.tf
  
