@@ -28,7 +28,7 @@ Now clone the project form prod to local environment
 After this create 3 ssh key pairs for each  environment with key name: sshkey_Dev // sshkey_Prod // sshkey_Staging in the environment
  Assign the path properly after creating the ssh key pair.
   
-Update the cloud 9 public and private ip as well as system ip ACS730_FinalProject/modules/global_var/output.tf
+Update the cloud 9 public and private ip as well as system ip ACS730_FinalProject/modules/globalvars/output.tf
 
 ######################################################################################
  Deploy the infrastructure in sequential order
